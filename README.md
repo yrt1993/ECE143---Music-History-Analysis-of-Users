@@ -35,7 +35,7 @@ These python notebooks and scripts do statistics and plot corresponding images, 
 
 To run all the scripts, download zip file of this repository, and uncompress and upload all folder and files to Jupyter Notebook. Jupyter notebook will look like this:
 
-![alt text](https://github.com/ece143team16/ECE143---Music-History-Analysis-of-Users/blob/master/Images/Jupyter%20Setup.png)
+![alt text](https://github.com/yrt1993/ECE143---Music-History-Analysis-of-Users/tree/master/Images/Jupyter%20Setup.png)
 
 Next clear datasets. Run Clear Data.ipynb in Notebooks folder to clear datasets.
 

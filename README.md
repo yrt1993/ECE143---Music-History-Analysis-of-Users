@@ -65,4 +65,3 @@ https://docs.google.com/presentation/d/1NjPvdh9WsMKie4uyfzyCRKIFnBmXPsUZzOVHSUxU
 * **Humberto Hernandez** 
 * **Yihan Hu** 
 * **Ruting Yin** 
-Added another line

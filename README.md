@@ -8,23 +8,15 @@ The project contains the necessary Python source files and .csv files. However, 
 
 ### Datasets
 
-We used the Music Listening History Dataset (MLHD) and the MusicBrainz dataset. The MLHD dataset contains ~570k files per user with one log per line in each file. Each log is a quadruple <timestamp, artist-MBID, release-MBID, recording-MBID>.
+We used the Music Listening History Dataset (MLHD) and the MusicBrainz dataset. The MLHD dataset the is distributed as TAR files with about 1K user files each. Each user has one file, with one log per line, which is a quadruple <timestamp, artist-MBID, release-MBID, recording-MBID>.
 
 The MLHD .tar files can be found in http://bit.ly/MLHD-Dataset.
 
-The MusicBrainz dataset can be found in http://ftp.musicbrainz.org/pub/musicbrainz/data/fullexport/. Navigate to the most recent updated folder and download mbdump.tar.bz2 and extract. Be advised that this list is updated weekly so the folder name changes frequently.
+The MusicBrainz dataset can be found in http://ftp.musicbrainz.org/pub/musicbrainz/data/fullexport/. Navigate to the most recent updated folder and download mbdump.tar.bz2 and extract. 
 
 ### Structure of source files 
 
 #### Clearing Datasets
-artist_scraping.ipynb,  
-ArtistTagMerge.ipynb,  
-ECE 143 artist_tag.ipynb,  
-tag table cleanup.ipynb,  
-refine_demographics_with_scrobble.ipynb,  
-Clear Data.ipynb.  
-These notebooks in Notebooks folder extract useful information from original dataset 
-
 For your convenience, Clear Data.ipynb conclude all the codes about clearing datasets and you just need to see it.
 
 #### Doing statistics and plotting graphs
